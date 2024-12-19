@@ -1,0 +1,3 @@
+[submodule "designs/weather_stations/aniweather"]
+	path = designs/weather_stations/aniweather
+	url = https://github.com/cheyao/aniweather
