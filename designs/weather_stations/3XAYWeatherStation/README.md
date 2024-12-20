@@ -17,8 +17,7 @@ All of the code is in Circuitpython
 - 3D Printed Case
 
 ## Schematic:
-![schematic](designs/weather_stations/3XAYWeatherStation/Screenshots/schematic.png)
-
+![schematic](https://github.com/3XAY/weatherStation/raw/main/Screenshots/schematic.png)
 ## PCB:
-![PCB Front](designs/weather_stations/3XAYWeatherStation/Screenshots/pcbFront.png)
-![PCB Back](designs/weather_stations/3XAYWeatherStation/Screenshots/pcbBack.png)
+![PCB Front](https://github.com/3XAY/weatherStation/raw/main/Screenshots/pcbFront.png)
+![PCB Back](https://github.com/3XAY/weatherStation/raw/main/Screenshots/pcbBack.png)
