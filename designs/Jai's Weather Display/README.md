@@ -11,3 +11,6 @@ This is the Case for it:
 
 
 There are four pillars designed to hold the PCB, allowing it to slide in and out of the enclosure easily.
+
+
+This the Wokwi Script:  https://wokwi.com/projects/417352360582221825
